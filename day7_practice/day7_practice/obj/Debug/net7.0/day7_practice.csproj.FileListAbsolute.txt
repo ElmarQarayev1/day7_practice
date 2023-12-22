@@ -1,0 +1,15 @@
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day7practise/day7_practice/day7_practice/bin/Debug/net7.0/day7_practice
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day7practise/day7_practice/day7_practice/bin/Debug/net7.0/day7_practice.deps.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day7practise/day7_practice/day7_practice/bin/Debug/net7.0/day7_practice.runtimeconfig.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day7practise/day7_practice/day7_practice/bin/Debug/net7.0/day7_practice.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day7practise/day7_practice/day7_practice/bin/Debug/net7.0/day7_practice.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day7practise/day7_practice/day7_practice/obj/Debug/net7.0/day7_practice.csproj.AssemblyReference.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day7practise/day7_practice/day7_practice/obj/Debug/net7.0/day7_practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day7practise/day7_practice/day7_practice/obj/Debug/net7.0/day7_practice.AssemblyInfoInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day7practise/day7_practice/day7_practice/obj/Debug/net7.0/day7_practice.AssemblyInfo.cs
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day7practise/day7_practice/day7_practice/obj/Debug/net7.0/day7_practice.csproj.CoreCompileInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day7practise/day7_practice/day7_practice/obj/Debug/net7.0/day7_practice.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day7practise/day7_practice/day7_practice/obj/Debug/net7.0/refint/day7_practice.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day7practise/day7_practice/day7_practice/obj/Debug/net7.0/day7_practice.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day7practise/day7_practice/day7_practice/obj/Debug/net7.0/day7_practice.genruntimeconfig.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/day7practise/day7_practice/day7_practice/obj/Debug/net7.0/ref/day7_practice.dll
